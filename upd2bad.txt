@@ -1,0 +1,8 @@
+Indonesia;X=260,581,345;P=260,555,333
+Italy;AA=300,000;P=59,801,999
+Japan;P=127,380,555;A=377,800;D=127,000,000
+Brazil;P=193,364,111;X=8,511,966
+Sweden;P=9,995,345;C=Europe
+Vietnam;A=331,310;C=Asia ; P=95,541,921
+Mexico;P=128,632,777 ; C=Europe
+Colombia;A=1,091,111;P=48,654,404
